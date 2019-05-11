@@ -1,0 +1,9 @@
+.cellBorder{
+    margin:0;
+    padding: 5px;
+    border-radius: 25px;
+    border: 1px solid #642ead;
+}
+.cell-snake{
+    background-color: chartreuse;
+}
