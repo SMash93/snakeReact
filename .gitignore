@@ -1,3 +1,5 @@
+/app/node_modules/
+git
 logs
 *.log
 npm-debug.log*
@@ -34,9 +36,9 @@ bower_components
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
-
+app/
 # Dependency directories
-/app/node_modules/
+node_modules/
 jspm_packages/
 
 # TypeScript v1 declaration files
